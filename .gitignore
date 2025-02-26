@@ -176,6 +176,7 @@ models/
 submition/
 .idea/
 *.qza
+*.bkp
 *.fastq
 *.fasta
 *.fa
