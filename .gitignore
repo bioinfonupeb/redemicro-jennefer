@@ -169,3 +169,15 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+# Custom
+Redemicro/
+models/
+submition/
+.idea/
+*.qza
+*.fastq
+*.fasta
+*.fa
+*.fn
+
